@@ -1,0 +1,12 @@
+class number:
+    def addition(self,a,b):
+        print(a+b)
+    def subtration(self,a,b):
+        print(a-b)
+    def multiply(self,a,b):
+        print(a*a)
+        print(a*b)
+n=number()
+n.addition(10,20)
+n.subtration(20,50)
+n.multiply(25,10)
